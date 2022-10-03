@@ -1,1 +1,0 @@
-web: python manage.py runserver --settings=djong.prod 0.0.0.0:\$PORT
